@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "includePath": ["cppystruct/include"]
+        }
+    ],
+    "version": 4
+}

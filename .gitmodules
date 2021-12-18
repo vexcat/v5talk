@@ -1,0 +1,6 @@
+[submodule "cppystruct"]
+	path = cppystruct
+	url = https://github.com/karkason/cppystruct.git
+[submodule "gzip-hpp"]
+	path = gzip-hpp
+	url = https://github.com/mapbox/gzip-hpp.git
